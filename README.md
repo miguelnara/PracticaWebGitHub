@@ -1,7 +1,7 @@
 # Readme para Practica Web GitHub
 ## Wireframe/Mockup
 *[Wireframe de la pagina]*
-https://www.draw.io/#LMapaNavegacionWeb.xml
+https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=MapaNavegacionWeb.xml#R3ZZvb5swEMY%2FDS9XYZy%2FL9s0aydtWqQoavvSxTfwBhg5ToB9%2BplyBhwSdZuiNd0ruOeOs%2F27RxYeXaTlnWJ5%2FEVySLzA56VHb70gIMSfmEetVI0ynpFGiJTgWNQJa%2FETUPRR3QkOW6dQS5lokbtiKLMMQu1oTClZuGXfZOKumrMIBsI6ZMlQfRBcx406C6adfg8iiu3KZDJvMimzxXiSbcy4LHoSXXp0oaTUzVtaLiCp4VkuzXcfT2TbjSnI9O98sKl%2B3LMVPC025XLz%2BXm%2F%2FPSVfsAue5bs8MAi41Be5XGOu9aVRaHkzuTqbsSjN0UsNKxzFtbZwgzfaLFOE0wPd2eXAqWh7Em42zuQKWhVmRLM0jGSQ%2BtMMCy6ORALN%2B7NwNYxHH3Udu7omBcE9AewggGs72zPLoLVaDpyWJE3h0WPwtqGSuT6IpG9vb9mA2QDSJDx6%2FpWM1EmM3ChGBaqejSBfzW24VM%2Fd1sf3W%2BjCqOTMDVTEejXrw%2FgziU6RN5DOj5C1GoKEqbF3r16j2HGFVZSmB13EyXuhRHMDya1lTsVAn7VvyoPGwVuo9YGtlEDZtDoZertsf%2FeCPOzGaFvg54rzm4E%2Bp8awXcbUfpvjWDP8Y6cEFy0E8jZnDA6lxNM2P0ENuXdrzRd%2FgI%3D
 
 ## Mapa de navegación
 *[Mapa de la pagina]*
