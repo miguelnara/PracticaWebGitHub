@@ -1,0 +1,63 @@
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-image: url("../img/fondoPagina.png");
+        }
+
+        nav {
+            font-size: 1.2em;
+        }
+
+        .logo {
+            width: 70px;
+            margin: 20px;
+        }
+
+        .negrita {
+            font-weight: bold;
+        }
+
+        #texto-logo {
+            margin: 20px;
+        }
+
+        .contenido {
+            margin-top: 30px;
+        }
+
+        .texto {
+            font-size: 1.2em;
+            background-color: white;
+            margin-top: 30px;
+            padding: 20px 100px;
+        }
+
+        .texto h1 {
+            text-decoration: underline;
+        }
+
+        video {
+            width:100%;
+        }
+
+        #logoInicio {
+            text-decoration: none;
+            color: black;
+            font-size: 2em;
+        }
+
+        footer {
+            text-align: center;
+        }
+
+        #imagenes {
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #imagenes img {
+            width: 50px;
+            height: auto;
+            margin: 10px;
+        }
