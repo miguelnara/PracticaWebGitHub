@@ -1,3 +1,8 @@
+<?php
+    include('Config.php');
+    include('Conexion.php');
+    $operaciones = new Conectar(Config::$server, Config::$usuario, Config::$password, Config::$db);
+?>
 <!DOCTYPE html>
 <html>
 
@@ -69,6 +74,32 @@
                         actualmente (la 4 se abandonó6​). En junio de 2015 se cerró y publicó la versión ECMAScript 6.
                         </p>
                     </div>
+                    <div>
+            <h1>COMENTARIOS</h1>
+            <form action="#" method="post" onsubmit="">
+                <label>Nombre</label><br>
+                <input type="text" name="nombre">
+                <br>
+                <label>Comentario</label><br>
+                <textarea name="comentario" rows="10" cols="120"></textarea>
+                <br>
+                <input type="submit" value="Aceptar">
+            </form>
+            <?php
+                if($_POST){
+                    $nombre=$_POST['nombre'];
+                    $comentario=$_POST['comentario'];
+                    $resultado=$operaciones->añadir_comentario($nombre, $comentario);
+                }
+                echo "</div>";
+                $mostrar=$operaciones->mostrar_comentarios();
+                while($row=mysqli_fetch_array($mostrar)){
+                    echo "<div>";
+						echo "<h3>".$row[1]."  dijo:</h3>";
+						echo "<h3><span>".$row[2]."</span></h3>";
+				    echo "</div>";
+                }
+            ?>
                 </div>
             </div>
             <div class="col-md-2"></div>
